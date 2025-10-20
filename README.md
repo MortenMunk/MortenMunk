@@ -1,7 +1,7 @@
 <img width="100%" src="banner.png"/>
 
 <h3 align="center">Software developer</h3>
-<p align="center"><i>BsC / MsC - AAU CPH 🇩🇰</i></p>
+<p align="center"><i> BSc / MSc, AAU CPH </i></p>
 
 ## 
 <p align="center">❄️ NixOS - ⛓️‍💥 Blockchain - 🔎 Cryptanalysis - 🛞 Classic American cars</p>
