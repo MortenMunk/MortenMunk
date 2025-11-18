@@ -4,7 +4,7 @@
 <p align="center"><i> BSc / MSc, AAU CPH </i></p>
 
 ## 
-<p align="center">❄️ NixOS - ⛓️ Blockchain - 🔎 Cryptanalysis - 🔧 Classic American cars</p>
+<p align="center">❄️ NixOS ● ⛓️ Blockchain ● 🔎 Cryptanalysis ● 🔧 Classic American cars</p>
 
 
 ##
