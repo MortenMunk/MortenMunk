@@ -11,7 +11,6 @@
  
 <p align="center">
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mortenmunk&theme=gruvbox&show_icons=true&hide_border=false&layout=compact" alt="mortenmunk's GitHub Stats" />
-  <img height="150" src="https://streak-stats.demolab.com?user=mortenmunk&theme=gruvbox&hide_border=false&layout=compact" alt="mortenmunk's GitHub Stats" />
 </p>
 
 ##
